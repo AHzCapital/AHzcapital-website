@@ -28,7 +28,7 @@
         <div class="relative flex items-center justify-center h-full text-center text-white">
             <div class="max-w-4xl">
                 <h1 class="text-5xl font-bold mb-4">AHzCapital</h1>
-                <p class="text-xl mb-6">Investing in the future winners, Investing in the future tech of humanity</p>
+                <p class="text-xl mb-6">Investing in the Tech that will host the future, investing in the winners</p>
                 <a href="#portfolio" class="px-6 py-3 bg-teal-500 text-white rounded-lg shadow hover:bg-teal-400 transition">Discover Our Portfolio</a>
             </div>
         </div>
@@ -39,7 +39,7 @@
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 class="text-3xl font-bold text-white mb-6">About Us</h2>
             <p class="text-lg text-gray-300 leading-relaxed">
-                AHzCapital is a leading venture capital firm specializing in transformative technologies. We invest with vision in those who build the future of artificial intelligence, blockchain infrastructure, and decentralized systems.
+                AHzCapital is a leading Private venture capital firm specializing in transformative technologies. We invest with a long term vision in the future of artificial intelligence, blockchain infrastructure, and decentralized protocols and Layers that will Host the new  world and makke it a better place. 
             </p>
         </div>
     </section>
@@ -55,16 +55,11 @@
                 </div>
                 <div class="bg-gray-700 shadow-lg rounded-lg p-6 hover:shadow-xl transition">
                     <h3 class="text-xl font-bold mb-2 text-white">Blockchain Protocol</h3>
-                    <p class="text-gray-300">Layer 1 infrastructure</p>
+                    <p class="text-gray-300">Blockchain infrastructure</p>
                 </div>
                 <div class="bg-gray-700 shadow-lg rounded-lg p-6 hover:shadow-xl transition">
                     <h3 class="text-xl font-bold mb-2 text-white">Web3 Ecosystem</h3>
-                    <p class="text-gray-300">Decentralized applications and DAO infrastructure.</p>
-                </div>
-                <div class="bg-gray-700 shadow-lg rounded-lg p-6 flex flex-col items-center justify-center text-center hover:shadow-xl transition">
-                    <h3 class="text-xl font-bold mb-2 text-white">The Internet Layer</h3>
-                    <p class="text-gray-300">The internet is dead - Long live the internet</p>
-                </div>
+                    <p class="text-gray-300">Decentralized applications and infrastructure.</p>
             </div>
         </div>
     </section>
