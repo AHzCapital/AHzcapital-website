@@ -16,7 +16,7 @@
                     <li><a href="#about" class="hover:text-teal-400 transition" aria-label="Go to About section">About</a></li>
                     <li><a href="#focus" class="hover:text-teal-400 transition" aria-label="Go to Focus section">Focus</a></li>
                     <li><a href="#portfolio" class="hover:text-teal-400 transition" aria-label="Go to Portfolio section">Portfolio</a></li>
-                    <li><a href="#contact" class="hover:text-teal-400 transition" aria-label="Go to Contact section">Contact</a></li>
+                    <li><a href="#social" class="hover:text-teal-400 transition" aria-label="Go to Social section">Social</a></li>
                 </ul>
             </div>
         </div>
@@ -84,25 +84,12 @@
         </div>
     </section>
 
-    <!-- Contact Section -->
-    <section id="contact" class="py-16 bg-gray-900" aria-labelledby="contact-heading">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 id="contact-heading" class="text-4xl font-extrabold text-white mb-8">Contact Us</h2>
-            <form class="bg-gray-800 p-8 rounded-lg shadow-lg space-y-6">
-                <div>
-                    <label for="name" class="block text-gray-300 font-bold">Name</label>
-                    <input type="text" id="name" name="name" class="w-full border border-gray-600 bg-gray-900 text-gray-300 rounded-lg p-4 focus:outline-none focus:ring-2 focus:ring-teal-400" placeholder="Your Name" aria-label="Enter your name">
-                </div>
-                <div>
-                    <label for="email" class="block text-gray-300 font-bold">Email</label>
-                    <input type="email" id="email" name="email" class="w-full border border-gray-600 bg-gray-900 text-gray-300 rounded-lg p-4 focus:outline-none focus:ring-2 focus:ring-teal-400" placeholder="Your Email" aria-label="Enter your email address">
-                </div>
-                <div>
-                    <label for="message" class="block text-gray-300 font-bold">Message</label>
-                    <textarea id="message" name="message" class="w-full border border-gray-600 bg-gray-900 text-gray-300 rounded-lg p-4 focus:outline-none focus:ring-2 focus:ring-teal-400" rows="4" placeholder="Your Message" aria-label="Enter your message"></textarea>
-                </div>
-                <button type="submit" class="px-8 py-4 bg-teal-500 text-white rounded-full shadow-lg hover:bg-teal-400 transition transform hover:scale-105" aria-label="Send message">Send Message</button>
-            </form>
+    <!-- Social Section -->
+    <section id="social" class="py-16 bg-gray-900" aria-labelledby="social-heading">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 id="social-heading" class="text-4xl font-extrabold text-white mb-8">Follow Us</h2>
+            <p class="text-lg text-gray-300 mb-4">Stay updated with our latest insights and investments by following us on X (formerly Twitter).</p>
+            <a href="https://x.com/AHzCrypto" target="_blank" class="px-8 py-4 bg-teal-500 text-white rounded-full shadow-lg hover:bg-teal-400 transition transform hover:scale-105" aria-label="Follow AHzCrypto on X">Follow @AHzCrypto</a>
         </div>
     </section>
 
