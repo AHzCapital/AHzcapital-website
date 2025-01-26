@@ -29,7 +29,7 @@
             <div class="max-w-4xl animate-fade-in-up">
                 <h1 class="text-6xl font-extrabold bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent mb-6" aria-label="AHzCapital">AHzCapital</h1>
                 <p class="text-2xl mb-8" aria-label="Investing in the technologies of the future">Investing in the Tech that will host the future</p>
-              <a href="#portfolio" class="px-8 py-4 border-2 border-teal-500 text-teal-500 shadow-lg hover:text-teal-500 transition transform hover:scale-105" aria-label="Discover our portfolio">Discover Our Portfolio</a>
+              <a href="#portfolio" class="px-6 py-3 border-2 border-teal-500 bg-teal-500 text-white rounded-lg text-lg shadow-lg hover:bg-teal-600 transition transform hover:scale-105" aria-label="Discover our portfolio">Discover Our Portfolio</a>
 
 
 
@@ -92,7 +92,8 @@
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 id="social-heading" class="text-4xl font-extrabold text-white mb-8">Follow Us</h2>
             <p class="text-lg text-gray-300 mb-4">Stay updated with our latest insights and investments by following us on X (formerly Twitter).</p>
-<a href="https://x.com/AHzCrypto" target="_blank" class="px-8 py-4 border-2 border-teal-500 text-teal-500 shadow-lg hover:text-teal-500 transition transform hover:scale-105" aria-label="Follow AHzCrypto on X">Follow @AHzCrypto</a>
+<a href="https://x.com/AHzCrypto" target="_blank" class="px-6 py-3 border-2 border-teal-500 bg-teal-500 text-white rounded-lg text-lg shadow-lg hover:bg-teal-600 transition transform hover:scale-105" aria-label="Follow AHzCrypto on X">Follow @AHzCrypto</a>
+
 
 
         </div>
