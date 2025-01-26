@@ -39,7 +39,7 @@
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 class="text-3xl font-bold text-white mb-6">About Us</h2>
             <p class="text-lg text-gray-300 leading-relaxed">
-                AHzCapital is a leading Private venture capital firm specializing in transformative technologies. We invest with a long term vision in the future of artificial intelligence, blockchain infrastructure, and decentralized protocols and Layers that will Host the new  world and makke it a better place. 
+                AHzCapital is a Private venture capital firm specializing in AI and Blockchain technologies. We invest with love and vision as a long term in the future of artificial intelligence, blockchain infrastructure, and decentralized protocols/Layers that will host the new world and make it a better place. 
             </p>
         </div>
     </section>
@@ -60,7 +60,7 @@
                 <div class="bg-gray-700 shadow-lg rounded-lg p-6 hover:shadow-xl transition">
                     <h3 class="text-xl font-bold mb-2 text-white">Web3 Ecosystem</h3>
                     <p class="text-gray-300">Decentralized applications and infrastructure.</p>
-            </div>
+      
         </div>
     </section>
 
