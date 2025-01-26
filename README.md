@@ -92,3 +92,15 @@
     </footer>
 </body>
 </html>
+
+<!-- Hero Section -->
+<section class="h-screen bg-gradient-to-r from-gray-900 via-gray-700 to-gray-900 relative">
+    <div class="absolute inset-0 bg-cover bg-center opacity-50" style="background-image: url('https://images.unsplash.com/photo-1620712943543-bcc4688e7485');"></div>
+    <div class="relative flex items-center justify-center h-full text-center text-white">
+        <div class="max-w-4xl">
+            <h1 class="text-5xl font-bold mb-4">AHzCapital</h1>
+            <p class="text-xl">Investing in the future winners, Investing in the future tech of humanity</p>
+        </div>
+    </div>
+</section>
+
