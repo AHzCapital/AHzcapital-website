@@ -80,7 +80,7 @@
                 </div>
                 <div class="bg-gray-700 p-6 rounded-lg shadow-md hover:shadow-xl transition">
                     <h3 class="text-xl font-bold mb-2 text-white"><a href="https://quilibrium.com" target="_blank" class="hover:underline">Quilibrium</a></h3>
-                    <p class="text-gray-300">The Layer of everything</p>
+                    <p class="text-gray-300">The Interent Layer | The Interent Layer</p>
                 </div>
             </div>
         </div>
