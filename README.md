@@ -61,7 +61,7 @@
                     <h3 class="text-xl font-bold mb-2 text-white">Web3 Ecosystem</h3>
                     <p class="text-gray-300">Decentralized applications and infrastructure.</p>
              </div>
-        </div>
+        
     </section>
 
     <!-- Portfolio Section -->
