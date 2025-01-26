@@ -92,3 +92,36 @@
     </footer>
 </body>
 </html>
+
+<!-- Hero Section -->
+<section class="h-screen bg-gradient-to-r from-gray-900 via-gray-700 to-gray-900 relative animate-gradient">
+    <div class="absolute inset-0 bg-cover bg-center opacity-50" style="background-image: url('https://images.unsplash.com/photo-1620712943543-bcc4688e7485');"></div>
+    <div class="relative flex items-center justify-center h-full text-center text-white">
+        <div class="max-w-4xl">
+            <h1 class="text-5xl font-bold mb-4">AHzCapital</h1>
+            <p class="text-xl">Investing in the future winners, Investing in the future tech of humanity</p>
+        </div>
+    </div>
+</section>
+
+<style>
+    /* Animation for gradient background */
+    @keyframes gradientAnimation {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+
+    .animate-gradient {
+        background: linear-gradient(270deg, #4e73df, #1d72b8, #117a65, #4e73df);
+        background-size: 400% 400%;
+        animation: gradientAnimation 15s ease infinite;
+    }
+</style>
+
