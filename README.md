@@ -1,9 +1,4 @@
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AHzCapital - Venture Capital</title>
-    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="font-sans text-gray-900 bg-gray-100">
     <!-- Navigation -->
@@ -27,7 +22,7 @@
         <div class="relative flex items-center justify-center h-full text-center text-white">
             <div class="max-w-4xl">
                 <h1 class="text-5xl font-bold mb-4">AHzCapital</h1>
-                <p class="text-xl">Investing in the future winners, Investing in the future tech of humanity</p>
+                <p class="text-xl">Investing in Winners, Investing in the Future Tech of Humanity</p>
             </div>
         </div>
     </section>
