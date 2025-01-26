@@ -1,17 +1,22 @@
 <html lang="en">
+
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="AHzCapital is a leading venture capital firm investing in transformative technologies like AI, blockchain, and decentralized systems.">
     <title>AHzCapital | Transformative Venture Capital</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Adding a Google Font for a more stylish look -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Poppins:wght@600&display=swap" rel="stylesheet">
 </head>
 <body class="font-sans text-gray-300 bg-gray-900">
     <!-- Navigation -->
     <nav class="bg-gray-800 text-white sticky top-0 z-50 shadow-lg">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center py-4">
-                <a href="#" class="text-3xl font-extrabold bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent">AHzCapital</a>
+                <!-- AHzCapital with a custom font and gradient -->
+                <a href="#" class="text-4xl font-extrabold bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent" style="font-family: 'Poppins', sans-serif;">AHzCapital</a>
                 <ul class="flex space-x-6 text-lg">
                     <li><a href="#about" class="hover:text-teal-400 transition">About</a></li>
                     <li><a href="#focus" class="hover:text-teal-400 transition">Focus</a></li>
@@ -27,12 +32,15 @@
         <div class="absolute inset-0 bg-cover bg-center opacity-50" style="background-image: url('https://cdn.pixabay.com/photo/2024/03/13/19/06/ai-generated-8631634_1280.jpg');" alt="Futuristic cityscape"></div>
         <div class="relative flex items-center justify-center h-full text-center text-white">
             <div class="max-w-4xl animate-fade-in-up">
-                <h1 class="text-6xl font-extrabold bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent mb-6">AHzCapital</h1>
+                <!-- "AHzCapital" with custom font and gradient -->
+                <h1 class="text-6xl font-extrabold bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent mb-6" style="font-family: 'Poppins', sans-serif;">AHzCapital</h1>
                 <p class="text-2xl mb-8">Investing in the Tech that will host the future</p>
-                <a href="#portfolio" class="px-8 py-4 bg-teal-500 text-white rounded-full shadow-lg hover:bg-teal-400 transition transform hover:scale-105">Discover Our Portfolio</a>
+                <!-- Smaller button with adjusted padding -->
+                <a href="#portfolio" class="px-6 py-3 bg-teal-500 text-white rounded-full shadow-lg hover:bg-teal-400 transition transform hover:scale-105">Discover Our Portfolio</a>
             </div>
         </div>
     </section>
+
 
     <!-- About Section -->
     <section id="about" class="py-16 bg-gray-800 relative">
