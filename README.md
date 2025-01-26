@@ -53,12 +53,9 @@
                     <h3 class="text-xl font-bold mb-2 text-white">AI/ML Infrastructure</h3>
                     <p class="text-gray-300">Next-generation machine learning platforms and AI-first companies.</p>
                 </div>
+                
                 <div class="bg-gray-700 shadow-lg rounded-lg p-6 hover:shadow-xl transition">
-                    <h3 class="text-xl font-bold mb-2 text-white">Blockchain Protocol</h3>
-                    <p class="text-gray-300">Blockchain infrastructure</p>
-                </div>
-                <div class="bg-gray-700 shadow-lg rounded-lg p-6 hover:shadow-xl transition">
-                    <h3 class="text-xl font-bold mb-2 text-white">Web3 Ecosystem</h3>
+                    <h3 class="text-xl font-bold mb-2 text-white">Blockchain infrastructure</h3>
                     <p class="text-gray-300">Decentralized applications and infrastructure.</p>
                 </div>
              </div>
