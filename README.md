@@ -30,7 +30,7 @@
                 <h1 class="text-6xl font-extrabold bg-gradient-to-r from-teal-400 to-blue-500 bg-clip-text text-transparent mb-6" aria-label="AHzCapital">AHzCapital</h1>
                 <p class="text-2xl mb-8" aria-label="Investing in the technologies of the future">Investing in the Tech that will host the future</p>
 
-               <a href="#portfolio" class="px-4 py-2 border-2 border-teal-500 bg-teal-500 text-white rounded-lg text-sm shadow-lg hover:bg-teal-600 transition transform hover:scale-105" aria-label="Discover our portfolio">Discover Our Portfolio</a>
+               <a href="#portfolio" class="px-4 py-2 border-2 border-teal-500 bg-teal-500 text-white rounded-lg text-sm shadow-lg hover:bg-teal-600 transition transform hover:scale-105" aria-label="Discover our portfolio">Discover our Portfolio</a>
 
 
             </div>
